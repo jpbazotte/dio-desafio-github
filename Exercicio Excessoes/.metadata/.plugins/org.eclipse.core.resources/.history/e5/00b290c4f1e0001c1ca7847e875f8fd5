@@ -1,0 +1,27 @@
+package application;
+
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter account data:");
+		
+		try {
+			System.out.print("Number: ");
+			int number = sc.nextInt();
+			System.out.print("Holder: ");
+			String holder = sc.nextLine();
+			System.out.print("Initial Balance: ");
+			double balance = sc.nextDouble();
+			System.out.print("Withdraw Limit: ");
+			double withdrawLimit = sc.nextDouble();
+			
+		}
+		
+		sc.close();
+	}
+
+}

@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Bazotte Notebook\Desktop\PROJETOS JAVA\INTERMEDIARIO\Exercicio Excessoes\.metadata\.plugins\org.eclipse.jdt.core
+3702695751.index
